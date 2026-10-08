@@ -1,0 +1,1 @@
+#udm=50 is for AI mode
