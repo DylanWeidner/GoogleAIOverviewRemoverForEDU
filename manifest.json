@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "description": "Redirects Google searches to Web results, removing the ability to use AI Overviews and AI Mode on Google.com",
   "permissions": [
-    "declarativeNetRequestWithHostAccess"
+    "declarativeNetRequest"
   ],
   "host_permissions": [
     "*://*.google.ad/*",
